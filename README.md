@@ -1,11 +1,29 @@
-Installation Guide (Important)
-Because this app is downloaded outside of the Google Play Store, Android will show security warnings. Our app is completely safe and free of malware.
+# Installation Guide (Important)
 
-To install the app, please follow these steps:
+Because this app is downloaded outside of the Google Play Store, Android may show security warnings.
 
-Open the downloaded .apk file from your browser or your phone's "Downloads" folder.
-If you see a warning saying "For your security, your phone is not allowed to install unknown apps", tap Settings on the popup.
-Toggle Allow from this source to ON.
-Go back and tap Install.
-Note on Google Play Protect: If Google Play Protect pops up and says the app isn't recognized, simply tap "Install Anyway". This warning appears for all apps not downloaded from the Play Store, not because the app is dangerous.
+Our app is completely safe and free of malware.
 
+## How to Install the App
+
+Please follow these steps:
+
+1. Open the downloaded `.apk` file from your browser or your phone's **Downloads** folder.
+
+2. If you see a warning saying:
+
+   > For your security, your phone is not allowed to install unknown apps
+
+   Tap **Settings** on the popup.
+
+3. Turn **Allow from this source** to **ON**.
+
+4. Go back and tap **Install**.
+
+## Note on Google Play Protect
+
+If Google Play Protect shows a message saying the app is not recognized, tap:
+
+**Install Anyway**
+
+This warning appears for apps downloaded outside the Google Play Store. It does not mean the app is dangerous.
